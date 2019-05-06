@@ -33,7 +33,7 @@ The "master" sets up a structure that fails the rule (indicated by the black mar
 2. Tell or Quiz
 3. Guess the rule (optional)
 
-# Tell
+# Quiz
 
 The first "student" makes a structure and declares "quiz!":
 
@@ -51,7 +51,7 @@ Because the first "student" was wrong, the "master" provides a refuting (either 
 
 <img src="8.jpg" width="500">
 
-# Quiz
+# Tell
 
 The second "student" assembles a structure, and declares "tell!":
 
