@@ -32,13 +32,17 @@ All "students" secretly guess by palming a white or black marker. Once everyone 
 
 <img src="7.jpg" width="500">
 
-The "student" decides to then spend their guessing cube and states their what they think the rule may be "exactly one piece":
-
-<img src="8.jpg" width="500">
+The "student" decides to then spend their guessing cube and states their what they think the rule may be "exactly one piece".
 
 Because the "student" was wrong, the "master" provides a refuting (either positive or negative) structure along with an indicating marker:
 
+<img src="8.jpg" width="500">
+
+The next "student" assembles a structure, and declares "tell!":
+
 <img src="9.jpg" width="500">
+
+The "master" indicates whether the structure meets (white marker) or fails (black marker) the rule:
 
 <img src="10.jpg" width="500">
 
