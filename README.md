@@ -6,7 +6,7 @@ Zendo is a lot like mastermind, except with multiple "students" trying to guess 
 
 # Rule cards
 
-<img src="1.HEIC" width="600">
+<img src="1.jpeg" width="600">
 
 The "master" picks a random Zendo card with a rule guide on it.
 
