@@ -28,6 +28,18 @@ The first "student" makes a structure and declares "guess!":
 
 <img src="6.jpg" width="500">
 
-All "students" secretly guess by palming a white or black marker. Once everyone is ready, the master reveals the correct marker:
+All "students" secretly guess by palming a white or black marker. Once everyone is ready, the master reveals the correct marker, and all "students" that guessed correctly get a green guessing cube:
 
 <img src="7.jpg" width="500">
+
+The "student" decides to then spend their guessing cube and states their what they think the rule may be "exactly one piece":
+
+<img src="8.jpg" width="500">
+
+Because the "student" was wrong, the "master" provides a refuting (either positive or negative) structure along with an indicating marker:
+
+<img src="9.jpg" width="500">
+
+<img src="10.jpg" width="500">
+
+<img src="11.jpg" width="500">
