@@ -39,7 +39,7 @@ The first "student" makes a structure and declares "quiz!":
 
 <img src="6.jpg" width="500">
 
-All "students" secretly pick a white marker (meets the rule) or black marker (fails the rule). Once everyone is ready, the master reveals the correct marker, and all "students" that guessed correctly get a green guessing cube (both "students" were correct):
+All "students" secretly pick a white marker (meets the rule) or black marker (fails the rule). Once everyone is ready, the master reveals the correct marker, and all "students" that guessed correctly get a green guessing cube. In this example game both "students" were correct and got guessing cubes:
 
 <img src="7.jpg" width="500">
 
@@ -47,7 +47,7 @@ All "students" secretly pick a white marker (meets the rule) or black marker (fa
 
 The first "student" decides to then spend their guessing cube, and states their what they think the rule may be "exactly one piece".
 
-Because the first "student" was wrong, the "master" provides a refuting (either positive or negative) structure along with an indicating marker:
+Recall that the rule is "exactly one blue piece". So because the guess was incorrect, the "master" provides a refuting (either positive or negative) structure along with an indicating marker:
 
 <img src="8.jpg" width="500">
 
