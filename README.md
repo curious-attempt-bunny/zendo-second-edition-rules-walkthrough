@@ -6,7 +6,7 @@ Zendo is a lot like mastermind, except with multiple "students" trying to guess 
 
 # Rule cards
 
-<img src="https://raw.github.com/curious-attempt-bunny/zendo-second-edition-rules-walkthrough/blob/master/1.HEIC" width="600">
+<img src="1.HEIC" width="600">
 
 The "master" picks a random Zendo card with a rule guide on it.
 
